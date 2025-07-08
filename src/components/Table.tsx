@@ -269,7 +269,7 @@ const Table: React.FC = () => {
                           break;
                         case 1:
                           content = (
-                            <div className="px-2  text-left text-xs">
+                            <div className="px-2  text-left text-xm">
                               {r.job}
                             </div>
                           );
