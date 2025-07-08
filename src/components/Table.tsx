@@ -18,11 +18,11 @@ import { IoHandLeft } from "react-icons/io5";
 
 const columns = [
   { header: "#", width: "2.5%" },
-  { header: "Job Request", width: "21%" },
+  { header: "Job Request", width: "22%" },
   { header: "Submitted", width: "10%" },
   { header: "Status", width: "9%" },
   { header: "Submitter", width: "10%" },
-  { header: "URL", width: "10%" },
+  { header: "URL", width: "11%" },
   { header: "Assigned", width: "10.5%" },
   { header: "Priority", width: "8%" },
   { header: "Due Date", width: "8%" },
